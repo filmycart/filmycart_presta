@@ -1,0 +1,28 @@
+[2025-12-31T13:59:24.587292+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully cleared cache for prod env admin [] {"process_id":1840}
+[2025-12-31T13:59:33.304005+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully warmed up cache for admin env prod [] {"process_id":1840}
+[2025-12-31T13:59:33.304121+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin-api env prod [] {"process_id":1840}
+[2025-12-31T13:59:33.304149+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for front env prod [] {"process_id":1840}
+[2025-12-31T13:59:33.304841+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin env dev [] {"process_id":1840}
+[2025-12-31T13:59:33.304876+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin-api env dev [] {"process_id":1840}
+[2025-12-31T13:59:33.304898+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for front env dev [] {"process_id":1840}
+[2025-12-31T13:59:48.638868+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully cleared cache for prod env admin [] {"process_id":1840}
+[2025-12-31T13:59:56.691487+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully warmed up cache for admin env prod [] {"process_id":1840}
+[2025-12-31T13:59:56.691570+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin-api env prod [] {"process_id":1840}
+[2025-12-31T13:59:56.691599+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for front env prod [] {"process_id":1840}
+[2025-12-31T13:59:56.692272+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin env dev [] {"process_id":1840}
+[2025-12-31T13:59:56.692309+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin-api env dev [] {"process_id":1840}
+[2025-12-31T13:59:56.692333+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for front env dev [] {"process_id":1840}
+[2025-12-31T13:59:59.988127+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully cleared cache for prod env admin [] {"process_id":1840}
+[2025-12-31T14:00:08.324705+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully warmed up cache for admin env prod [] {"process_id":1840}
+[2025-12-31T14:00:08.324787+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin-api env prod [] {"process_id":1840}
+[2025-12-31T14:00:08.324815+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for front env prod [] {"process_id":1840}
+[2025-12-31T14:00:08.325543+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin env dev [] {"process_id":1840}
+[2025-12-31T14:00:08.325578+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin-api env dev [] {"process_id":1840}
+[2025-12-31T14:00:08.325601+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for front env dev [] {"process_id":1840}
+[2025-12-31T14:10:05.638853+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully cleared cache for prod env admin [] {"process_id":21800}
+[2025-12-31T14:10:11.127414+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully warmed up cache for admin env prod [] {"process_id":21800}
+[2025-12-31T14:10:11.127501+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin-api env prod [] {"process_id":21800}
+[2025-12-31T14:10:11.127530+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for front env prod [] {"process_id":21800}
+[2025-12-31T14:10:11.593931+05:30] ps_checkout.INFO: ExecKernelCacheClearer: Successfully cleared cache for dev env admin [] {"process_id":21800}
+[2025-12-31T14:10:11.594026+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for admin-api env dev [] {"process_id":21800}
+[2025-12-31T14:10:11.594058+05:30] ps_checkout.DEBUG: SymfonyCacheClearer: No symfony cache to clear for front env dev [] {"process_id":21800}
